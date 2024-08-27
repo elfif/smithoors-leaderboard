@@ -6,7 +6,7 @@ node_modules
 !.yarn/patches
 !.yarn/plugins
 !.yarn/releases
-!.yarn/sdks
+!.yarn/sd
 !.yarn/versions
 
 # eslint
